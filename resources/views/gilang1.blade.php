@@ -5,6 +5,6 @@
     <title></title>
   </head>
   <body>
-    Gilang292
+    Gilang292 dan Sastra.
   </body>
 </html>
