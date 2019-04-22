@@ -1,6 +1,2 @@
-## Welcome to GitHub Pages
-
-#Politeknik Negeri Banyuwangi
-D3-Teknik Informatika
-Kelas 2G
-Semester 4
+# Belajar Bareng laravel-git
+Gilang Adi saputra_361755401189_2G
