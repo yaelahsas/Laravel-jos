@@ -1,5 +1,5 @@
 @section('konten')
-nama-nama hewan:
+nama-nama hewan1:
 
 @if(count($kewan))
 <ul>
